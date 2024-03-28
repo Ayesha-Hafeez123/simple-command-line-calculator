@@ -1,1 +1,1 @@
-# simple-command-line-calculator
+Simple caLculator
